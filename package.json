@@ -1,0 +1,12 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "yiniau's blog",
+  "main": "index.js",
+  "repository": "https://github.com/Yiniau/blog.git",
+  "author": "yiniau <yiranzhouyida@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "push": "scp -r ./ yiniau@45.76.153.213:~/github/yiniau-s-blog/articles"
+  }
+}
